@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+    background-size: cover;
+}
+
+.form{
+    position: relative;
+    background: #FFFFFF;
+    max-width: 300px;
+   
+    border-radius: 10px;
+    margin: 200px auto 100px;
+    padding: 10px 45px 30px 35px;
+    
+}
+
+.form input{
+    outline: 0;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.form input:hover{
+    background-color: aqua;
+    opacity: 1;
+}
+.form button{
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: bisque;
+    
+}
+
+.form button:hover{
+    background-color: pink;
+    opacity: ;
+}
